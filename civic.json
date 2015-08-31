@@ -1,0 +1,29 @@
+{
+    "conformsTo": "http://codefordc.org/resources/specification.html",
+    "status": "Beta",
+    "thumbnailUrl":"http://0.gravatar.com/avatar/377c72c27cafb98c6a4936a4d0fd775b?s=128&d=mm&r=G",
+    "contact":
+    {
+        "name": "Derek Willis",
+        "email": "openelections@gmail.com",
+        "twitter": "@openelex"
+    },
+    "bornAt": "Code for DC",
+    "geography": "DC",
+    "communityPartner": {},
+    "politicalEntity": {},
+    "governmentPartner": {},
+    "type": "Web App",
+    "data": {
+        "DC BOEE":"https://www.dcboee.org/election_info/election_results/",
+    },
+    "needs": [
+        {"need":"PDF Parsing"},
+    ],
+    "categories": [
+        {"category":"Elections"},
+        {"category":"Government"},
+        {"category":"Open Data"}
+    ],
+    "moreInfo": "http://openelections.github.io/"
+}
