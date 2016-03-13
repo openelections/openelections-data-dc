@@ -1,0 +1,1001 @@
+ward,precinct,office,district,party,candidate,votes
+4,46,president,,DEM, KERRY/EDWARDS,1596
+4,46,president,,SGN, COBB/LaMARCHE,7
+4,46,president,,LIB, BADNARIK/CAMPAGNA,0
+4,46,president,,SWP, HARRIS/TROWE,2
+4,46,president,,REP, BUSH/CHENEY,56
+4,46,president,,IND, NADER/CAMEJO,4
+4,46,president,,,Write in,3
+4,47,president,,DEM, KERRY/EDWARDS,1534
+4,47,president,,SGN, COBB/LaMARCHE,6
+4,47,president,,LIB, BADNARIK/CAMPAGNA,3
+4,47,president,,SWP, HARRIS/TROWE,1
+4,47,president,,REP, BUSH/CHENEY,94
+4,47,president,,IND, NADER/CAMEJO,10
+4,47,president,,,Write in,4
+4,47,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1537
+4,47,delegate,At Large,REP, MICHAEL ANDREW MONROE,63
+4,48,president,,DEM, KERRY/EDWARDS,1710
+4,48,president,,SGN, COBB/LaMARCHE,3
+4,48,president,,LIB, BADNARIK/CAMPAGNA,2
+4,48,president,,SWP, HARRIS/TROWE,0
+4,48,president,,REP, BUSH/CHENEY,89
+4,48,president,,IND, NADER/CAMEJO,12
+4,48,president,,,Write in,5
+4,48,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1678
+4,48,delegate,At Large,REP, MICHAEL ANDREW MONROE,81
+4,48,delegate,At Large,,Write in,7
+4,49,president,,DEM, KERRY/EDWARDS,374
+4,49,president,,SGN, COBB/LaMARCHE,5
+4,49,president,,LIB, BADNARIK/CAMPAGNA,0
+4,49,president,,SWP, HARRIS/TROWE,0
+4,49,president,,REP, BUSH/CHENEY,22
+4,49,president,,IND, NADER/CAMEJO,1
+4,49,president,,,Write in,0
+4,49,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+4,49,president,,DEM, ELEANOR HOLMES NORTON,387
+4,49,president,,REP, MICHAEL ANDREW MONROE,8
+4,49,president,,,Write in,2
+3,50,president,,DEM, KERRY/EDWARDS,1543
+3,50,president,,SGN, COBB/LaMARCHE,5
+3,50,president,,LIB, BADNARIK/CAMPAGNA,8
+3,50,president,,SWP, HARRIS/TROWE,1
+3,50,president,,REP, BUSH/CHENEY,340
+3,50,president,,IND, NADER/CAMEJO,18
+3,50,president,,,Write in,6
+3,50,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1557
+3,50,delegate,At Large,REP, MICHAEL ANDREW MONROE,279
+3,50,delegate,At Large,,Write in,10
+4,51,president,,DEM, KERRY/EDWARDS,2686
+4,51,president,,SGN, COBB/LaMARCHE,10
+4,51,president,,LIB, BADNARIK/CAMPAGNA,7
+4,51,president,,SWP, HARRIS/TROWE,1
+4,51,president,,REP, BUSH/CHENEY,616
+4,51,president,,IND, NADER/CAMEJO,26
+4,51,president,,,Write in,7
+4,51,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2739
+4,51,delegate,At Large,REP, MICHAEL ANDREW MONROE,487
+4,52,president,,DEM, KERRY/EDWARDS,1008
+4,52,president,,SGN, COBB/LaMARCHE,3
+4,52,president,,LIB, BADNARIK/CAMPAGNA,5
+4,52,president,,SWP, HARRIS/TROWE,0
+4,52,president,,REP, BUSH/CHENEY,185
+4,52,president,,IND, NADER/CAMEJO,8
+4,52,president,,,Write in,5
+4,52,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1017
+4,52,delegate,At Large,REP, MICHAEL ANDREW MONROE,147
+4,52,delegate,At Large,,Write in,4
+4,53,president,,DEM, KERRY/EDWARDS,794
+4,53,president,,SGN, COBB/LaMARCHE,2
+4,53,president,,LIB, BADNARIK/CAMPAGNA,0
+4,53,president,,SWP, HARRIS/TROWE,2
+4,53,president,,REP, BUSH/CHENEY,69
+4,53,president,,IND, NADER/CAMEJO,5
+4,53,president,,,Write in,1
+4,53,delegate,At Large,DEM, ELEANOR HOLMES NORTON,791
+4,53,delegate,At Large,REP, MICHAEL ANDREW MONROE,53
+4,53,delegate,At Large,,Write in,4
+4,54,president,,DEM, KERRY/EDWARDS,1386
+4,54,president,,SGN, COBB/LaMARCHE,3
+4,54,president,,LIB, BADNARIK/CAMPAGNA,0
+4,54,president,,SWP, HARRIS/TROWE,0
+4,54,president,,REP, BUSH/CHENEY,73
+4,54,president,,IND, NADER/CAMEJO,11
+4,54,president,,,Write in,5
+4,54,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1405
+4,54,delegate,At Large,REP, MICHAEL ANDREW MONROE,45
+4,54,delegate,At Large,,Write in,4
+4,55,president,,DEM, KERRY/EDWARDS,1340
+4,55,president,,SGN, COBB/LaMARCHE,1
+4,55,president,,LIB, BADNARIK/CAMPAGNA,0
+4,55,president,,SWP, HARRIS/TROWE,1
+4,55,president,,REP, BUSH/CHENEY,81
+4,55,president,,IND, NADER/CAMEJO,7
+4,55,president,,,Write in,0
+4,55,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1353
+4,55,delegate,At Large,REP, MICHAEL ANDREW MONROE,55
+4,55,delegate,At Large,,Write in,3
+4,56,president,,DEM, KERRY/EDWARDS,1755
+4,56,president,,SGN, COBB/LaMARCHE,7
+4,56,president,,LIB, BADNARIK/CAMPAGNA,0
+4,56,president,,SWP, HARRIS/TROWE,0
+4,56,president,,REP, BUSH/CHENEY,82
+4,56,president,,IND, NADER/CAMEJO,12
+4,56,president,,,Write in,1
+4,56,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1784
+4,56,delegate,At Large,REP, MICHAEL ANDREW MONROE,46
+4,56,delegate,At Large,,Write in,3
+4,57,president,,DEM, KERRY/EDWARDS,1626
+4,57,president,,SGN, COBB/LaMARCHE,3
+4,57,president,,LIB, BADNARIK/CAMPAGNA,1
+4,57,president,,SWP, HARRIS/TROWE,3
+4,57,president,,REP, BUSH/CHENEY,73
+4,57,president,,IND, NADER/CAMEJO,5
+4,57,president,,,Write in,3
+4,57,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1653
+4,57,delegate,At Large,REP, MICHAEL ANDREW MONROE,35
+4,57,delegate,At Large,,Write in,2
+4,58,president,,DEM, KERRY/EDWARDS,1413
+4,58,president,,SGN, COBB/LaMARCHE,3
+4,58,president,,LIB, BADNARIK/CAMPAGNA,0
+4,58,president,,SWP, HARRIS/TROWE,1
+4,58,president,,REP, BUSH/CHENEY,53
+4,58,president,,IND, NADER/CAMEJO,4
+4,58,president,,,Write in,2
+4,58,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1409
+4,58,delegate,At Large,REP, MICHAEL ANDREW MONROE,28
+4,58,delegate,At Large,,Write in,5
+4,59,president,,DEM, KERRY/EDWARDS,1721
+4,59,president,,SGN, COBB/LaMARCHE,4
+4,59,president,,LIB, BADNARIK/CAMPAGNA,1
+4,59,president,,SWP, HARRIS/TROWE,1
+4,59,president,,REP, BUSH/CHENEY,71
+4,59,president,,IND, NADER/CAMEJO,11
+4,59,president,,,Write in,1
+4,59,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1744
+4,59,delegate,At Large,REP, MICHAEL ANDREW MONROE,39
+4,59,delegate,At Large,,Write in,7
+4,60,president,,DEM, KERRY/EDWARDS,1224
+4,60,president,,SGN, COBB/LaMARCHE,1
+4,60,president,,LIB, BADNARIK/CAMPAGNA,0
+4,60,president,,SWP, HARRIS/TROWE,0
+4,60,president,,REP, BUSH/CHENEY,71
+4,60,president,,IND, NADER/CAMEJO,8
+4,60,president,,,Write in,1
+4,60,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1214
+4,60,delegate,At Large,REP, MICHAEL ANDREW MONROE,51
+4,60,delegate,At Large,,Write in,3
+4,61,president,,DEM, KERRY/EDWARDS,1157
+4,61,president,,SGN, COBB/LaMARCHE,4
+4,61,president,,LIB, BADNARIK/CAMPAGNA,1
+4,61,president,,SWP, HARRIS/TROWE,1
+4,61,president,,REP, BUSH/CHENEY,66
+4,61,president,,IND, NADER/CAMEJO,3
+4,61,president,,,Write in,0
+4,61,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1154
+4,61,delegate,At Large,REP, MICHAEL ANDREW MONROE,43
+4,61,delegate,At Large,,Write in,5
+4,62,president,,DEM, KERRY/EDWARDS,2439
+4,62,president,,SGN, COBB/LaMARCHE,2
+4,62,president,,LIB, BADNARIK/CAMPAGNA,4
+4,62,president,,SWP, HARRIS/TROWE,0
+4,62,president,,REP, BUSH/CHENEY,151
+4,62,president,,IND, NADER/CAMEJO,7
+4,62,president,,,Write in,4
+4,62,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2416
+4,62,delegate,At Large,REP, MICHAEL ANDREW MONROE,121
+4,62,delegate,At Large,,Write in,15
+4,63,president,,DEM, KERRY/EDWARDS,2104
+4,63,president,,SGN, COBB/LaMARCHE,14
+4,63,president,,LIB, BADNARIK/CAMPAGNA,3
+4,63,president,,SWP, HARRIS/TROWE,1
+4,63,president,,REP, BUSH/CHENEY,122
+4,63,president,,IND, NADER/CAMEJO,14
+4,63,president,,,Write in,8
+4,63,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2119
+4,63,delegate,At Large,REP, MICHAEL ANDREW MONROE,79
+4,63,delegate,At Large,,Write in,7
+4,64,president,,DEM, KERRY/EDWARDS,1520
+4,64,president,,SGN, COBB/LaMARCHE,1
+4,64,president,,LIB, BADNARIK/CAMPAGNA,0
+4,64,president,,SWP, HARRIS/TROWE,0
+4,64,president,,REP, BUSH/CHENEY,74
+4,64,president,,IND, NADER/CAMEJO,3
+4,64,president,,,Write in,2
+4,64,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1525
+4,64,delegate,At Large,REP, MICHAEL ANDREW MONROE,44
+4,64,delegate,At Large,,Write in,6
+4,65,president,,DEM, KERRY/EDWARDS,1782
+4,65,president,,SGN, COBB/LaMARCHE,1
+4,65,president,,LIB, BADNARIK/CAMPAGNA,1
+4,65,president,,SWP, HARRIS/TROWE,0
+4,65,president,,REP, BUSH/CHENEY,66
+4,65,president,,IND, NADER/CAMEJO,3
+4,65,president,,,Write in,4
+4,65,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1795
+4,65,delegate,At Large,REP, MICHAEL ANDREW MONROE,41
+4,65,delegate,At Large,,Write in,4
+5,66,president,,DEM, KERRY/EDWARDS,2919
+5,66,president,,SGN, COBB/LaMARCHE,4
+5,66,president,,LIB, BADNARIK/CAMPAGNA,3
+5,66,president,,SWP, HARRIS/TROWE,2
+5,66,president,,REP, BUSH/CHENEY,130
+5,66,president,,IND, NADER/CAMEJO,6
+5,66,president,,,Write in,3
+5,66,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2938
+5,66,delegate,At Large,REP, MICHAEL ANDREW MONROE,85
+5,66,delegate,At Large,,Write in,11
+5,68,president,,DEM, KERRY/EDWARDS,1242
+5,68,president,,SGN, COBB/LaMARCHE,7
+5,68,president,,LIB, BADNARIK/CAMPAGNA,0
+5,68,president,,SWP, HARRIS/TROWE,0
+5,68,president,,REP, BUSH/CHENEY,133
+5,68,president,,IND, NADER/CAMEJO,12
+5,68,president,,,Write in,7
+5,68,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1238
+5,68,delegate,At Large,REP, MICHAEL ANDREW MONROE,112
+5,68,delegate,At Large,,Write in,11
+5,70,president,,DEM, KERRY/EDWARDS,971
+5,70,president,,SGN, COBB/LaMARCHE,5
+5,70,president,,LIB, BADNARIK/CAMPAGNA,0
+5,70,president,,SWP, HARRIS/TROWE,2
+5,70,president,,REP, BUSH/CHENEY,58
+5,70,president,,IND, NADER/CAMEJO,10
+5,70,president,,,Write in,0
+5,70,delegate,At Large,DEM, ELEANOR HOLMES NORTON,980
+5,70,delegate,At Large,REP, MICHAEL ANDREW MONROE,46
+5,70,delegate,At Large,,Write in,2
+5,71,president,,DEM, KERRY/EDWARDS,1492
+5,71,president,,SGN, COBB/LaMARCHE,5
+5,71,president,,LIB, BADNARIK/CAMPAGNA,1
+5,71,president,,SWP, HARRIS/TROWE,1
+5,71,president,,REP, BUSH/CHENEY,95
+5,71,president,,IND, NADER/CAMEJO,6
+5,71,president,,,Write in,0
+5,71,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+5,71,president,,DEM, ELEANOR HOLMES NORTON,1528
+5,71,president,,REP, MICHAEL ANDREW MONROE,39
+5,71,president,,,Write in,6
+5,72,president,,DEM, KERRY/EDWARDS,2135
+5,72,president,,SGN, COBB/LaMARCHE,6
+5,72,president,,LIB, BADNARIK/CAMPAGNA,0
+5,72,president,,SWP, HARRIS/TROWE,1
+5,72,president,,REP, BUSH/CHENEY,85
+5,72,president,,IND, NADER/CAMEJO,10
+5,72,president,,,Write in,3
+5,72,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2145
+5,72,delegate,At Large,REP, MICHAEL ANDREW MONROE,49
+5,72,delegate,At Large,,Write in,8
+5,73,president,,DEM, KERRY/EDWARDS,1217
+5,73,president,,SGN, COBB/LaMARCHE,9
+5,73,president,,LIB, BADNARIK/CAMPAGNA,1
+5,73,president,,SWP, HARRIS/TROWE,0
+5,73,president,,REP, BUSH/CHENEY,84
+5,73,president,,IND, NADER/CAMEJO,15
+5,73,president,,,Write in,4
+5,73,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+5,73,president,,DEM, ELEANOR HOLMES NORTON,1207
+5,73,president,,REP, MICHAEL ANDREW MONROE,83
+5,73,president,,,Write in,6
+5,74,president,,DEM, KERRY/EDWARDS,2061
+5,74,president,,SGN, COBB/LaMARCHE,3
+5,74,president,,LIB, BADNARIK/CAMPAGNA,2
+5,74,president,,SWP, HARRIS/TROWE,4
+5,74,president,,REP, BUSH/CHENEY,128
+5,74,president,,IND, NADER/CAMEJO,11
+5,74,president,,,Write in,3
+5,74,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2047
+5,74,delegate,At Large,REP, MICHAEL ANDREW MONROE,109
+5,74,delegate,At Large,,Write in,5
+5,75,president,,DEM, KERRY/EDWARDS,1459
+5,75,president,,SGN, COBB/LaMARCHE,9
+5,75,president,,LIB, BADNARIK/CAMPAGNA,4
+5,75,president,,SWP, HARRIS/TROWE,1
+5,75,president,,REP, BUSH/CHENEY,46
+5,75,president,,IND, NADER/CAMEJO,12
+5,75,president,,,Write in,3
+5,75,president,,rec,ct 76,
+5,75,president,,DEM, KERRY/EDWARDS,410
+5,75,president,,SGN, COBB/LaMARCHE,0
+5,75,president,,LIB, BADNARIK/CAMPAGNA,0
+5,75,president,,SWP, HARRIS/TROWE,1
+5,75,president,,REP, BUSH/CHENEY,19
+5,75,president,,IND, NADER/CAMEJO,1
+5,75,president,,,Write in,1
+5,77,president,,DEM, KERRY/EDWARDS,1512
+5,77,president,,SGN, COBB/LaMARCHE,3
+5,77,president,,LIB, BADNARIK/CAMPAGNA,0
+5,77,president,,SWP, HARRIS/TROWE,1
+5,77,president,,REP, BUSH/CHENEY,55
+5,77,president,,IND, NADER/CAMEJO,6
+5,77,president,,,Write in,0
+5,77,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1529
+5,77,delegate,At Large,REP, MICHAEL ANDREW MONROE,30
+5,77,delegate,At Large,,Write in,3
+5,78,president,,DEM, KERRY/EDWARDS,1372
+5,78,president,,SGN, COBB/LaMARCHE,3
+5,78,president,,LIB, BADNARIK/CAMPAGNA,0
+5,78,president,,SWP, HARRIS/TROWE,0
+5,78,president,,REP, BUSH/CHENEY,37
+5,78,president,,IND, NADER/CAMEJO,3
+5,78,president,,,Write in,0
+5,78,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+5,78,president,,DEM, ELEANOR HOLMES NORTON,1371
+5,78,president,,REP, MICHAEL ANDREW MONROE,24
+5,78,president,,,Write in,2
+5,79,president,,DEM, KERRY/EDWARDS,900
+5,79,president,,SGN, COBB/LaMARCHE,3
+5,79,president,,LIB, BADNARIK/CAMPAGNA,2
+5,79,president,,SWP, HARRIS/TROWE,0
+5,79,president,,REP, BUSH/CHENEY,34
+5,79,president,,IND, NADER/CAMEJO,2
+5,79,president,,,Write in,0
+5,79,delegate,At Large,DEM, ELEANOR HOLMES NORTON,901
+5,79,delegate,At Large,REP, MICHAEL ANDREW MONROE,32
+5,79,delegate,At Large,,Write in,0
+7,80,president,,DEM, KERRY/EDWARDS,758
+7,80,president,,SGN, COBB/LaMARCHE,3
+7,80,president,,LIB, BADNARIK/CAMPAGNA,1
+7,80,president,,SWP, HARRIS/TROWE,0
+7,80,president,,REP, BUSH/CHENEY,36
+7,80,president,,IND, NADER/CAMEJO,4
+7,80,president,,,Write in,1
+7,80,delegate,At Large,DEM, ELEANOR HOLMES NORTON,760
+7,80,delegate,At Large,REP, MICHAEL ANDREW MONROE,28
+7,80,delegate,At Large,,Write in,2
+6,81,president,,DEM, KERRY/EDWARDS,2553
+6,81,president,,SGN, COBB/LaMARCHE,2
+6,81,president,,LIB, BADNARIK/CAMPAGNA,3
+6,81,president,,SWP, HARRIS/TROWE,2
+6,81,president,,REP, BUSH/CHENEY,172
+6,81,president,,IND, NADER/CAMEJO,18
+6,81,president,,,Write in,2
+6,81,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2529
+6,81,delegate,At Large,REP, MICHAEL ANDREW MONROE,154
+6,81,delegate,At Large,,Write in,11
+6,82,president,,DEM, KERRY/EDWARDS,1503
+6,82,president,,SGN, COBB/LaMARCHE,6
+6,82,president,,LIB, BADNARIK/CAMPAGNA,5
+6,82,president,,SWP, HARRIS/TROWE,0
+6,82,president,,REP, BUSH/CHENEY,121
+6,82,president,,IND, NADER/CAMEJO,14
+6,82,president,,,Write in,1
+6,82,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1506
+6,82,delegate,At Large,REP, MICHAEL ANDREW MONROE,112
+6,82,delegate,At Large,,Write in,5
+6,83,president,,DEM, KERRY/EDWARDS,1688
+6,83,president,,SGN, COBB/LaMARCHE,6
+6,83,president,,LIB, BADNARIK/CAMPAGNA,6
+6,83,president,,SWP, HARRIS/TROWE,1
+6,83,president,,REP, BUSH/CHENEY,94
+6,83,president,,IND, NADER/CAMEJO,7
+6,83,president,,,Write in,2
+6,83,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1669
+6,83,delegate,At Large,REP, MICHAEL ANDREW MONROE,94
+6,83,delegate,At Large,,Write in,5
+6,84,president,,DEM, KERRY/EDWARDS,1414
+6,84,president,,SGN, COBB/LaMARCHE,8
+6,84,president,,LIB, BADNARIK/CAMPAGNA,7
+6,84,president,,SWP, HARRIS/TROWE,0
+6,84,president,,REP, BUSH/CHENEY,257
+6,84,president,,IND, NADER/CAMEJO,10
+6,84,president,,,Write in,9
+6,84,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1393
+6,84,delegate,At Large,REP, MICHAEL ANDREW MONROE,277
+6,84,delegate,At Large,,Write in,13
+6,85,president,,DEM, KERRY/EDWARDS,1874
+6,85,president,,SGN, COBB/LaMARCHE,13
+6,85,president,,LIB, BADNARIK/CAMPAGNA,12
+6,85,president,,SWP, HARRIS/TROWE,1
+6,85,president,,REP, BUSH/CHENEY,397
+6,85,president,,IND, NADER/CAMEJO,23
+6,85,president,,,Write in,14
+6,85,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1854
+6,85,delegate,At Large,REP, MICHAEL ANDREW MONROE,399
+6,85,delegate,At Large,,Write in,11
+6,86,president,,DEM, KERRY/EDWARDS,1370
+6,86,president,,SGN, COBB/LaMARCHE,6
+6,86,president,,LIB, BADNARIK/CAMPAGNA,2
+6,86,president,,SWP, HARRIS/TROWE,1
+6,86,president,,REP, BUSH/CHENEY,163
+6,86,president,,IND, NADER/CAMEJO,13
+6,86,president,,,Write in,2
+6,86,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1357
+6,86,delegate,At Large,REP, MICHAEL ANDREW MONROE,145
+6,86,delegate,At Large,,Write in,9
+6,87,president,,DEM, KERRY/EDWARDS,1616
+6,87,president,,SGN, COBB/LaMARCHE,5
+6,87,president,,LIB, BADNARIK/CAMPAGNA,4
+6,87,president,,SWP, HARRIS/TROWE,2
+6,87,president,,REP, BUSH/CHENEY,134
+6,87,president,,IND, NADER/CAMEJO,7
+6,87,president,,,Write in,5
+6,87,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1623
+6,87,delegate,At Large,REP, MICHAEL ANDREW MONROE,112
+6,87,delegate,At Large,,Write in,4
+6,88,president,,DEM, KERRY/EDWARDS,1504
+6,88,president,,SGN, COBB/LaMARCHE,8
+6,88,president,,LIB, BADNARIK/CAMPAGNA,15
+6,88,president,,SWP, HARRIS/TROWE,3
+6,88,president,,REP, BUSH/CHENEY,221
+6,88,president,,IND, NADER/CAMEJO,15
+6,88,president,,,Write in,5
+6,88,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1519
+6,88,delegate,At Large,REP, MICHAEL ANDREW MONROE,200
+6,88,delegate,At Large,,Write in,15
+6,89,president,,DEM, KERRY/EDWARDS,1856
+6,89,president,,SGN, COBB/LaMARCHE,13
+6,89,president,,LIB, BADNARIK/CAMPAGNA,15
+6,89,president,,SWP, HARRIS/TROWE,2
+6,89,president,,REP, BUSH/CHENEY,515
+6,89,president,,IND, NADER/CAMEJO,23
+6,89,president,,,Write in,10
+6,89,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1873
+6,89,delegate,At Large,REP, MICHAEL ANDREW MONROE,478
+6,89,delegate,At Large,,Write in,18
+6,90,president,,DEM, KERRY/EDWARDS,1077
+6,90,president,,SGN, COBB/LaMARCHE,8
+6,90,president,,LIB, BADNARIK/CAMPAGNA,8
+6,90,president,,SWP, HARRIS/TROWE,0
+6,90,president,,REP, BUSH/CHENEY,190
+6,90,president,,IND, NADER/CAMEJO,10
+6,90,president,,,Write in,5
+6,90,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+6,90,president,,DEM, ELEANOR HOLMES NORTON,1082
+6,90,president,,REP, MICHAEL ANDREW MONROE,181
+6,90,president,,,Write in,9
+6,91,president,,DEM, KERRY/EDWARDS,2113
+6,91,president,,SGN, COBB/LaMARCHE,13
+6,91,president,,LIB, BADNARIK/CAMPAGNA,8
+6,91,president,,SWP, HARRIS/TROWE,2
+6,91,president,,REP, BUSH/CHENEY,168
+6,91,president,,IND, NADER/CAMEJO,15
+6,91,president,,,Write in,10
+6,91,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2086
+6,91,delegate,At Large,REP, MICHAEL ANDREW MONROE,169
+6,91,delegate,At Large,,Write in,14
+7,93,president,,DEM, KERRY/EDWARDS,805
+7,93,president,,SGN, COBB/LaMARCHE,2
+7,93,president,,LIB, BADNARIK/CAMPAGNA,1
+7,93,president,,SWP, HARRIS/TROWE,3
+7,93,president,,REP, BUSH/CHENEY,44
+7,93,president,,IND, NADER/CAMEJO,0
+7,93,president,,,Write in,0
+7,93,delegate,At Large,DEM, ELEANOR HOLMES NORTON,818
+7,93,delegate,At Large,REP, MICHAEL ANDREW MONROE,20
+7,93,delegate,At Large,,Write in,1
+7,92,president,,DEM, KERRY/EDWARDS,845
+7,92,president,,SGN, COBB/LaMARCHE,1
+7,92,president,,LIB, BADNARIK/CAMPAGNA,0
+7,92,president,,SWP, HARRIS/TROWE,0
+7,92,president,,REP, BUSH/CHENEY,31
+7,92,president,,IND, NADER/CAMEJO,2
+7,92,president,,,Write in,2
+7,92,delegate,At Large,DEM, ELEANOR HOLMES NORTON,853
+7,92,delegate,At Large,REP, MICHAEL ANDREW MONROE,20
+7,92,delegate,At Large,,Write in,2
+7,94,president,,DEM, KERRY/EDWARDS,996
+7,94,president,,SGN, COBB/LaMARCHE,2
+7,94,president,,LIB, BADNARIK/CAMPAGNA,0
+7,94,president,,SWP, HARRIS/TROWE,0
+7,94,president,,REP, BUSH/CHENEY,40
+7,94,president,,IND, NADER/CAMEJO,0
+7,94,president,,,Write in,2
+7,94,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1000
+7,94,delegate,At Large,REP, MICHAEL ANDREW MONROE,21
+7,94,delegate,At Large,,Write in,2
+7,95,president,,DEM, KERRY/EDWARDS,740
+7,95,president,,SGN, COBB/LaMARCHE,3
+7,95,president,,LIB, BADNARIK/CAMPAGNA,0
+7,95,president,,SWP, HARRIS/TROWE,1
+7,95,president,,REP, BUSH/CHENEY,28
+7,95,president,,IND, NADER/CAMEJO,1
+7,95,president,,,Write in,2
+7,95,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+7,95,president,,DEM, ELEANOR HOLMES NORTON,731
+7,95,president,,REP, MICHAEL ANDREW MONROE,21
+7,95,president,,,Write in,2
+7,96,president,,DEM, KERRY/EDWARDS,1021
+7,96,president,,SGN, COBB/LaMARCHE,2
+7,96,president,,LIB, BADNARIK/CAMPAGNA,0
+7,96,president,,SWP, HARRIS/TROWE,0
+7,96,president,,REP, BUSH/CHENEY,32
+7,96,president,,IND, NADER/CAMEJO,4
+7,96,president,,,Write in,1
+7,96,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1023
+7,96,delegate,At Large,REP, MICHAEL ANDREW MONROE,18
+7,96,delegate,At Large,,Write in,4
+7,97,president,,DEM, KERRY/EDWARDS,614
+7,97,president,,SGN, COBB/LaMARCHE,1
+7,97,president,,LIB, BADNARIK/CAMPAGNA,1
+7,97,president,,SWP, HARRIS/TROWE,0
+7,97,president,,REP, BUSH/CHENEY,20
+7,97,president,,IND, NADER/CAMEJO,3
+7,97,president,,,Write in,1
+7,97,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+7,97,president,,DEM, ELEANOR HOLMES NORTON,613
+7,97,president,,REP, MICHAEL ANDREW MONROE,13
+7,97,president,,,Write in,0
+7,98,president,,DEM, KERRY/EDWARDS,971
+7,98,president,,SGN, COBB/LaMARCHE,5
+7,98,president,,LIB, BADNARIK/CAMPAGNA,0
+7,98,president,,SWP, HARRIS/TROWE,1
+7,98,president,,REP, BUSH/CHENEY,39
+7,98,president,,IND, NADER/CAMEJO,7
+7,98,president,,,Write in,0
+7,98,delegate,At Large,DEM, ELEANOR HOLMES NORTON,990
+7,98,delegate,At Large,REP, MICHAEL ANDREW MONROE,15
+7,98,delegate,At Large,,Write in,2
+7,99,president,,DEM, KERRY/EDWARDS,666
+7,99,president,,SGN, COBB/LaMARCHE,0
+7,99,president,,LIB, BADNARIK/CAMPAGNA,0
+7,99,president,,SWP, HARRIS/TROWE,0
+7,99,president,,REP, BUSH/CHENEY,23
+7,99,president,,IND, NADER/CAMEJO,4
+7,99,president,,,Write in,1
+7,99,delegate,At Large,DEM, ELEANOR HOLMES NORTON,656
+7,99,delegate,At Large,REP, MICHAEL ANDREW MONROE,17
+7,99,delegate,At Large,,Write in,2
+7,100,president,,DEM, KERRY/EDWARDS,957
+7,100,president,,SGN, COBB/LaMARCHE,1
+7,100,president,,LIB, BADNARIK/CAMPAGNA,0
+7,100,president,,SWP, HARRIS/TROWE,0
+7,100,president,,REP, BUSH/CHENEY,21
+7,100,president,,IND, NADER/CAMEJO,1
+7,100,president,,,Write in,0
+7,100,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+7,100,president,,DEM, ELEANOR HOLMES NORTON,929
+7,100,president,,REP, MICHAEL ANDREW MONROE,17
+7,100,president,,,Write in,2
+7,102,president,,DEM, KERRY/EDWARDS,1228
+7,102,president,,SGN, COBB/LaMARCHE,2
+7,102,president,,LIB, BADNARIK/CAMPAGNA,0
+7,102,president,,SWP, HARRIS/TROWE,0
+7,102,president,,REP, BUSH/CHENEY,55
+7,102,president,,IND, NADER/CAMEJO,5
+7,102,president,,,Write in,1
+7,102,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1287
+7,102,delegate,At Large,REP, MICHAEL ANDREW MONROE,29
+7,102,delegate,At Large,,Write in,3
+7,101,president,,DEM, KERRY/EDWARDS,943
+7,101,president,,SGN, COBB/LaMARCHE,0
+7,101,president,,LIB, BADNARIK/CAMPAGNA,1
+7,101,president,,SWP, HARRIS/TROWE,0
+7,101,president,,REP, BUSH/CHENEY,31
+7,101,president,,IND, NADER/CAMEJO,4
+7,101,president,,,Write in,1
+7,101,delegate,At Large,DEM, ELEANOR HOLMES NORTON,952
+7,101,delegate,At Large,REP, MICHAEL ANDREW MONROE,25
+7,101,delegate,At Large,,Write in,1
+7,103,president,,DEM, KERRY/EDWARDS,1746
+7,103,president,,SGN, COBB/LaMARCHE,2
+7,103,president,,LIB, BADNARIK/CAMPAGNA,1
+7,103,president,,SWP, HARRIS/TROWE,3
+7,103,president,,REP, BUSH/CHENEY,43
+7,103,president,,IND, NADER/CAMEJO,8
+7,103,president,,,Write in,4
+7,103,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1753
+7,103,delegate,At Large,REP, MICHAEL ANDREW MONROE,27
+7,103,delegate,At Large,,Write in,3
+7,104,president,,DEM, KERRY/EDWARDS,1277
+7,104,president,,SGN, COBB/LaMARCHE,4
+7,104,president,,LIB, BADNARIK/CAMPAGNA,1
+7,104,president,,SWP, HARRIS/TROWE,0
+7,104,president,,REP, BUSH/CHENEY,41
+7,104,president,,IND, NADER/CAMEJO,2
+7,104,president,,,Write in,1
+7,104,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1277
+7,104,delegate,At Large,REP, MICHAEL ANDREW MONROE,31
+7,104,delegate,At Large,,Write in,3
+7,105,president,,DEM, KERRY/EDWARDS,1107
+7,105,president,,SGN, COBB/LaMARCHE,0
+7,105,president,,LIB, BADNARIK/CAMPAGNA,0
+7,105,president,,SWP, HARRIS/TROWE,0
+7,105,president,,REP, BUSH/CHENEY,36
+7,105,president,,IND, NADER/CAMEJO,2
+7,105,president,,,Write in,1
+7,105,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1101
+7,105,delegate,At Large,REP, MICHAEL ANDREW MONROE,24
+7,105,delegate,At Large,,Write in,3
+7,107,president,,DEM, KERRY/EDWARDS,836
+7,107,president,,SGN, COBB/LaMARCHE,0
+7,107,president,,LIB, BADNARIK/CAMPAGNA,0
+7,107,president,,SWP, HARRIS/TROWE,0
+7,107,president,,REP, BUSH/CHENEY,18
+7,107,president,,IND, NADER/CAMEJO,3
+7,107,president,,,Write in,0
+7,107,delegate,At Large,DEM, ELEANOR HOLMES NORTON,853
+7,107,delegate,At Large,REP, MICHAEL ANDREW MONROE,20
+7,107,delegate,At Large,,Write in,2
+7,106,president,,DEM, KERRY/EDWARDS,1608
+7,106,president,,SGN, COBB/LaMARCHE,2
+7,106,president,,LIB, BADNARIK/CAMPAGNA,0
+7,106,president,,SWP, HARRIS/TROWE,1
+7,106,president,,REP, BUSH/CHENEY,68
+7,106,president,,IND, NADER/CAMEJO,5
+7,106,president,,,Write in,4
+7,106,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1617
+7,106,delegate,At Large,REP, MICHAEL ANDREW MONROE,49
+7,106,delegate,At Large,,Write in,4
+7,108,president,,DEM, KERRY/EDWARDS,785
+7,108,president,,SGN, COBB/LaMARCHE,0
+7,108,president,,LIB, BADNARIK/CAMPAGNA,0
+7,108,president,,SWP, HARRIS/TROWE,2
+7,108,president,,REP, BUSH/CHENEY,53
+7,108,president,,IND, NADER/CAMEJO,3
+7,108,president,,,Write in,0
+7,108,delegate,At Large,DEM, ELEANOR HOLMES NORTON,809
+7,108,delegate,At Large,REP, MICHAEL ANDREW MONROE,19
+7,108,delegate,At Large,,Write in,1
+7,109,president,,DEM, KERRY/EDWARDS,683
+7,109,president,,SGN, COBB/LaMARCHE,1
+7,109,president,,LIB, BADNARIK/CAMPAGNA,0
+7,109,president,,SWP, HARRIS/TROWE,1
+7,109,president,,REP, BUSH/CHENEY,33
+7,109,president,,IND, NADER/CAMEJO,3
+7,109,president,,,Write in,3
+7,109,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+7,109,president,,DEM, ELEANOR HOLMES NORTON,700
+7,109,president,,REP, MICHAEL ANDREW MONROE,21
+7,109,president,,,Write in,1
+7,110,president,,DEM, KERRY/EDWARDS,2494
+7,110,president,,SGN, COBB/LaMARCHE,4
+7,110,president,,LIB, BADNARIK/CAMPAGNA,1
+7,110,president,,SWP, HARRIS/TROWE,0
+7,110,president,,REP, BUSH/CHENEY,112
+7,110,president,,IND, NADER/CAMEJO,9
+7,110,president,,,Write in,5
+7,110,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2519
+7,110,delegate,At Large,REP, MICHAEL ANDREW MONROE,74
+7,110,delegate,At Large,,Write in,5
+7,111,president,,DEM, KERRY/EDWARDS,1223
+7,111,president,,SGN, COBB/LaMARCHE,1
+7,111,president,,LIB, BADNARIK/CAMPAGNA,1
+7,111,president,,SWP, HARRIS/TROWE,1
+7,111,president,,REP, BUSH/CHENEY,40
+7,111,president,,IND, NADER/CAMEJO,5
+7,111,president,,,Write in,2
+7,111,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1211
+7,111,delegate,At Large,REP, MICHAEL ANDREW MONROE,30
+7,111,delegate,At Large,,Write in,3
+7,112,president,,DEM, KERRY/EDWARDS,1238
+7,112,president,,SGN, COBB/LaMARCHE,0
+7,112,president,,LIB, BADNARIK/CAMPAGNA,0
+7,112,president,,SWP, HARRIS/TROWE,0
+7,112,president,,REP, BUSH/CHENEY,49
+7,112,president,,IND, NADER/CAMEJO,4
+7,112,president,,,Write in,1
+7,112,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1248
+7,112,delegate,At Large,REP, MICHAEL ANDREW MONROE,35
+7,112,delegate,At Large,,Write in,1
+7,113,president,,DEM, KERRY/EDWARDS,1363
+7,113,president,,SGN, COBB/LaMARCHE,2
+7,113,president,,LIB, BADNARIK/CAMPAGNA,1
+7,113,president,,SWP, HARRIS/TROWE,1
+7,113,president,,REP, BUSH/CHENEY,91
+7,113,president,,IND, NADER/CAMEJO,14
+7,113,president,,,Write in,2
+7,113,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1382
+7,113,delegate,At Large,REP, MICHAEL ANDREW MONROE,56
+7,113,delegate,At Large,,Write in,5
+8,114,president,,DEM, KERRY/EDWARDS,1416
+8,114,president,,SGN, COBB/LaMARCHE,2
+8,114,president,,LIB, BADNARIK/CAMPAGNA,2
+8,114,president,,SWP, HARRIS/TROWE,0
+8,114,president,,REP, BUSH/CHENEY,47
+8,114,president,,IND, NADER/CAMEJO,8
+8,114,president,,,Write in,2
+8,114,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1391
+8,114,delegate,At Large,REP, MICHAEL ANDREW MONROE,32
+8,114,delegate,At Large,,Write in,6
+8,115,president,,DEM, KERRY/EDWARDS,1154
+8,115,president,,SGN, COBB/LaMARCHE,1
+8,115,president,,LIB, BADNARIK/CAMPAGNA,0
+8,115,president,,SWP, HARRIS/TROWE,1
+8,115,president,,REP, BUSH/CHENEY,37
+8,115,president,,IND, NADER/CAMEJO,3
+8,115,president,,,Write in,0
+8,115,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1151
+8,115,delegate,At Large,REP, MICHAEL ANDREW MONROE,16
+8,115,delegate,At Large,,Write in,1
+8,116,president,,DEM, KERRY/EDWARDS,1686
+8,116,president,,SGN, COBB/LaMARCHE,0
+8,116,president,,LIB, BADNARIK/CAMPAGNA,0
+8,116,president,,SWP, HARRIS/TROWE,1
+8,116,president,,REP, BUSH/CHENEY,51
+8,116,president,,IND, NADER/CAMEJO,4
+8,116,president,,,Write in,0
+8,116,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1659
+8,116,delegate,At Large,REP, MICHAEL ANDREW MONROE,29
+8,116,delegate,At Large,,Write in,2
+8,117,president,,DEM, KERRY/EDWARDS,772
+8,117,president,,SGN, COBB/LaMARCHE,0
+8,117,president,,LIB, BADNARIK/CAMPAGNA,1
+8,117,president,,SWP, HARRIS/TROWE,1
+8,117,president,,REP, BUSH/CHENEY,16
+8,117,president,,IND, NADER/CAMEJO,2
+8,117,president,,,Write in,0
+8,117,delegate,At Large,DEM, ELEANOR HOLMES NORTON,762
+8,117,delegate,At Large,REP, MICHAEL ANDREW MONROE,22
+8,117,delegate,At Large,,Write in,0
+8,118,president,,DEM, KERRY/EDWARDS,1235
+8,118,president,,SGN, COBB/LaMARCHE,3
+8,118,president,,LIB, BADNARIK/CAMPAGNA,0
+8,118,president,,SWP, HARRIS/TROWE,0
+8,118,president,,REP, BUSH/CHENEY,27
+8,118,president,,IND, NADER/CAMEJO,4
+8,118,president,,,Write in,2
+8,118,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1225
+8,118,delegate,At Large,REP, MICHAEL ANDREW MONROE,22
+8,118,delegate,At Large,,Write in,4
+8,119,president,,DEM, KERRY/EDWARDS,1189
+8,119,president,,SGN, COBB/LaMARCHE,1
+8,119,president,,LIB, BADNARIK/CAMPAGNA,0
+8,119,president,,SWP, HARRIS/TROWE,2
+8,119,president,,REP, BUSH/CHENEY,40
+8,119,president,,IND, NADER/CAMEJO,2
+8,119,president,,,Write in,2
+8,119,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1207
+8,119,delegate,At Large,REP, MICHAEL ANDREW MONROE,36
+8,119,delegate,At Large,,Write in,3
+8,120,president,,DEM, KERRY/EDWARDS,995
+8,120,president,,SGN, COBB/LaMARCHE,2
+8,120,president,,LIB, BADNARIK/CAMPAGNA,1
+8,120,president,,SWP, HARRIS/TROWE,0
+8,120,president,,REP, BUSH/CHENEY,31
+8,120,president,,IND, NADER/CAMEJO,1
+8,120,president,,,Write in,2
+8,120,delegate,At Large,DEM, ELEANOR HOLMES NORTON,974
+8,120,delegate,At Large,REP, MICHAEL ANDREW MONROE,23
+8,120,delegate,At Large,,Write in,1
+8,121,president,,DEM, KERRY/EDWARDS,1628
+8,121,president,,SGN, COBB/LaMARCHE,2
+8,121,president,,LIB, BADNARIK/CAMPAGNA,1
+8,121,president,,SWP, HARRIS/TROWE,0
+8,121,president,,REP, BUSH/CHENEY,49
+8,121,president,,IND, NADER/CAMEJO,5
+8,121,president,,,Write in,1
+8,121,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1612
+8,121,delegate,At Large,REP, MICHAEL ANDREW MONROE,32
+8,121,delegate,At Large,,Write in,3
+8,122,president,,DEM, KERRY/EDWARDS,902
+8,122,president,,SGN, COBB/LaMARCHE,3
+8,122,president,,LIB, BADNARIK/CAMPAGNA,0
+8,122,president,,SWP, HARRIS/TROWE,0
+8,122,president,,REP, BUSH/CHENEY,26
+8,122,president,,IND, NADER/CAMEJO,3
+8,122,president,,,Write in,1
+8,122,delegate,At Large,DEM, ELEANOR HOLMES NORTON,892
+8,122,delegate,At Large,REP, MICHAEL ANDREW MONROE,16
+8,122,delegate,At Large,,Write in,4
+8,123,president,,DEM, KERRY/EDWARDS,1128
+8,123,president,,SGN, COBB/LaMARCHE,2
+8,123,president,,LIB, BADNARIK/CAMPAGNA,0
+8,123,president,,SWP, HARRIS/TROWE,1
+8,123,president,,REP, BUSH/CHENEY,85
+8,123,president,,IND, NADER/CAMEJO,9
+8,123,president,,,Write in,2
+8,123,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1141
+8,123,delegate,At Large,REP, MICHAEL ANDREW MONROE,51
+8,123,delegate,At Large,,Write in,3
+8,124,president,,DEM, KERRY/EDWARDS,1304
+8,124,president,,SGN, COBB/LaMARCHE,0
+8,124,president,,LIB, BADNARIK/CAMPAGNA,0
+8,124,president,,SWP, HARRIS/TROWE,1
+8,124,president,,REP, BUSH/CHENEY,45
+8,124,president,,IND, NADER/CAMEJO,5
+8,124,president,,,Write in,0
+8,124,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1294
+8,124,delegate,At Large,REP, MICHAEL ANDREW MONROE,36
+8,124,delegate,At Large,,Write in,2
+8,125,president,,DEM, KERRY/EDWARDS,2124
+8,125,president,,SGN, COBB/LaMARCHE,0
+8,125,president,,LIB, BADNARIK/CAMPAGNA,1
+8,125,president,,SWP, HARRIS/TROWE,3
+8,125,president,,REP, BUSH/CHENEY,54
+8,125,president,,IND, NADER/CAMEJO,3
+8,125,president,,,Write in,0
+8,125,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2065
+8,125,delegate,At Large,REP, MICHAEL ANDREW MONROE,48
+8,125,delegate,At Large,,Write in,2
+8,126,president,,DEM, KERRY/EDWARDS,1639
+8,126,president,,SGN, COBB/LaMARCHE,4
+8,126,president,,LIB, BADNARIK/CAMPAGNA,3
+8,126,president,,SWP, HARRIS/TROWE,0
+8,126,president,,REP, BUSH/CHENEY,55
+8,126,president,,IND, NADER/CAMEJO,2
+8,126,president,,,Write in,2
+8,126,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1609
+8,126,delegate,At Large,REP, MICHAEL ANDREW MONROE,54
+8,126,delegate,At Large,,Write in,1
+6,127,president,,DEM, KERRY/EDWARDS,2345
+6,127,president,,SGN, COBB/LaMARCHE,8
+6,127,president,,LIB, BADNARIK/CAMPAGNA,4
+6,127,president,,SWP, HARRIS/TROWE,1
+6,127,president,,REP, BUSH/CHENEY,231
+6,127,president,,IND, NADER/CAMEJO,20
+6,127,president,,,Write in,4
+6,127,delegate,At Large,DEM, ELEANOR HOLMES NORTON,2328
+6,127,delegate,At Large,REP, MICHAEL ANDREW MONROE,216
+6,127,delegate,At Large,,Write in,10
+6,128,president,,DEM, KERRY/EDWARDS,1021
+6,128,president,,SGN, COBB/LaMARCHE,5
+6,128,president,,LIB, BADNARIK/CAMPAGNA,4
+6,128,president,,SWP, HARRIS/TROWE,1
+6,128,president,,REP, BUSH/CHENEY,95
+6,128,president,,IND, NADER/CAMEJO,11
+6,128,president,,,Write in,2
+6,128,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1015
+6,128,delegate,At Large,REP, MICHAEL ANDREW MONROE,89
+6,128,delegate,At Large,,Write in,8
+2,129,president,,DEM, KERRY/EDWARDS,723
+2,129,president,,SGN, COBB/LaMARCHE,2
+2,129,president,,LIB, BADNARIK/CAMPAGNA,0
+2,129,president,,SWP, HARRIS/TROWE,1
+2,129,president,,REP, BUSH/CHENEY,84
+2,129,president,,IND, NADER/CAMEJO,6
+2,129,president,,,Write in,3
+2,129,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+2,129,president,,DEM, ELEANOR HOLMES NORTON,701
+2,129,president,,REP, MICHAEL ANDREW MONROE,84
+2,129,president,,,Write in,3
+6,130,president,,DEM, KERRY/EDWARDS,978
+6,130,president,,SGN, COBB/LaMARCHE,4
+6,130,president,,LIB, BADNARIK/CAMPAGNA,5
+6,130,president,,SWP, HARRIS/TROWE,0
+6,130,president,,REP, BUSH/CHENEY,337
+6,130,president,,IND, NADER/CAMEJO,16
+6,130,president,,,Write in,7
+6,130,delegate,At Large,DEM, ELEANOR HOLMES NORTON,969
+6,130,delegate,At Large,REP, MICHAEL ANDREW MONROE,307
+6,130,delegate,At Large,,Write in,13
+6,131,president,,DEM, KERRY/EDWARDS,271
+6,131,president,,SGN, COBB/LaMARCHE,1
+6,131,president,,LIB, BADNARIK/CAMPAGNA,1
+6,131,president,,SWP, HARRIS/TROWE,0
+6,131,president,,REP, BUSH/CHENEY,12
+6,131,president,,IND, NADER/CAMEJO,0
+6,131,president,,,Write in,1
+6,131,delegate,At Large,DEM, ELEANOR HOLMES NORTON,264
+6,131,delegate,At Large,REP, MICHAEL ANDREW MONROE,11
+6,131,delegate,At Large,,Write in,0
+7,132,president,,DEM, KERRY/EDWARDS,1010
+7,132,president,,SGN, COBB/LaMARCHE,0
+7,132,president,,LIB, BADNARIK/CAMPAGNA,0
+7,132,president,,SWP, HARRIS/TROWE,0
+7,132,president,,REP, BUSH/CHENEY,22
+7,132,president,,IND, NADER/CAMEJO,1
+7,132,president,,,Write in,2
+7,132,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1006
+7,132,delegate,At Large,REP, MICHAEL ANDREW MONROE,14
+7,132,delegate,At Large,,Write in,3
+8,133,president,,DEM, KERRY/EDWARDS,783
+8,133,president,,SGN, COBB/LaMARCHE,3
+8,133,president,,LIB, BADNARIK/CAMPAGNA,0
+8,133,president,,SWP, HARRIS/TROWE,0
+8,133,president,,REP, BUSH/CHENEY,49
+8,133,president,,IND, NADER/CAMEJO,4
+8,133,president,,,Write in,2
+8,133,delegate,At Large,DEM, ELEANOR HOLMES NORTON,796
+8,133,delegate,At Large,REP, MICHAEL ANDREW MONROE,23
+8,133,delegate,At Large,,Write in,3
+8,134,president,,DEM, KERRY/EDWARDS,987
+8,134,president,,SGN, COBB/LaMARCHE,1
+8,134,president,,LIB, BADNARIK/CAMPAGNA,0
+8,134,president,,SWP, HARRIS/TROWE,0
+8,134,president,,REP, BUSH/CHENEY,33
+8,134,president,,IND, NADER/CAMEJO,2
+8,134,president,,,Write in,1
+8,134,delegate,At Large,DEM, ELEANOR HOLMES NORTON,982
+8,134,delegate,At Large,REP, MICHAEL ANDREW MONROE,18
+8,134,delegate,At Large,,Write in,2
+5,135,president,,DEM, KERRY/EDWARDS,1597
+5,135,president,,SGN, COBB/LaMARCHE,3
+5,135,president,,LIB, BADNARIK/CAMPAGNA,1
+5,135,president,,SWP, HARRIS/TROWE,2
+5,135,president,,REP, BUSH/CHENEY,73
+5,135,president,,IND, NADER/CAMEJO,7
+5,135,president,,,Write in,3
+5,135,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1618
+5,135,delegate,At Large,REP, MICHAEL ANDREW MONROE,60
+5,135,delegate,At Large,,Write in,2
+1,136,president,,DEM, KERRY/EDWARDS,662
+1,136,president,,SGN, COBB/LaMARCHE,0
+1,136,president,,LIB, BADNARIK/CAMPAGNA,3
+1,136,president,,SWP, HARRIS/TROWE,0
+1,136,president,,REP, BUSH/CHENEY,124
+1,136,president,,IND, NADER/CAMEJO,11
+1,136,president,,,Write in,4
+1,136,delegate,At Large,DEM, ELEANOR HOLMES NORTON,637
+1,136,delegate,At Large,REP, MICHAEL ANDREW MONROE,130
+1,136,delegate,At Large,,Write in,3
+1,137,president,,DEM, KERRY/EDWARDS,494
+1,137,president,,SGN, COBB/LaMARCHE,1
+1,137,president,,LIB, BADNARIK/CAMPAGNA,4
+1,137,president,,SWP, HARRIS/TROWE,2
+1,137,president,,REP, BUSH/CHENEY,23
+1,137,president,,IND, NADER/CAMEJO,7
+1,137,president,,,Write in,0
+1,137,president,,ELE,TE TO THE U.S. HOUSE OF REPS,
+1,137,president,,DEM, ELEANOR HOLMES NORTON,497
+1,137,president,,REP, MICHAEL ANDREW MONROE,22
+1,137,president,,,Write in,3
+3,138,president,,DEM, KERRY/EDWARDS,1684
+3,138,president,,SGN, COBB/LaMARCHE,8
+3,138,president,,LIB, BADNARIK/CAMPAGNA,10
+3,138,president,,SWP, HARRIS/TROWE,3
+3,138,president,,REP, BUSH/CHENEY,351
+3,138,president,,IND, NADER/CAMEJO,18
+3,138,president,,,Write in,6
+3,138,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1661
+3,138,delegate,At Large,REP, MICHAEL ANDREW MONROE,304
+3,138,delegate,At Large,,Write in,14
+5,139,president,,DEM, KERRY/EDWARDS,1133
+5,139,president,,SGN, COBB/LaMARCHE,4
+5,139,president,,LIB, BADNARIK/CAMPAGNA,0
+5,139,president,,SWP, HARRIS/TROWE,0
+5,139,president,,REP, BUSH/CHENEY,49
+5,139,president,,IND, NADER/CAMEJO,2
+5,139,president,,,Write in,1
+5,139,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1151
+5,139,delegate,At Large,REP, MICHAEL ANDREW MONROE,18
+5,139,delegate,At Large,,Write in,5
+8,140,president,,DEM, KERRY/EDWARDS,930
+8,140,president,,SGN, COBB/LaMARCHE,1
+8,140,president,,LIB, BADNARIK/CAMPAGNA,0
+8,140,president,,SWP, HARRIS/TROWE,1
+8,140,president,,REP, BUSH/CHENEY,44
+8,140,president,,IND, NADER/CAMEJO,2
+8,140,president,,,Write in,1
+8,140,delegate,At Large,DEM, ELEANOR HOLMES NORTON,941
+8,140,delegate,At Large,REP, MICHAEL ANDREW MONROE,20
+8,140,delegate,At Large,,Write in,3
+2,141,president,,DEM, KERRY/EDWARDS,1727
+2,141,president,,SGN, COBB/LaMARCHE,15
+2,141,president,,LIB, BADNARIK/CAMPAGNA,7
+2,141,president,,SWP, HARRIS/TROWE,1
+2,141,president,,REP, BUSH/CHENEY,120
+2,141,president,,IND, NADER/CAMEJO,14
+2,141,president,,,Write in,3
+2,141,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1670
+2,141,delegate,At Large,REP, MICHAEL ANDREW MONROE,149
+2,141,delegate,At Large,,Write in,11
+6,142,president,,DEM, KERRY/EDWARDS,980
+6,142,president,,SGN, COBB/LaMARCHE,0
+6,142,president,,LIB, BADNARIK/CAMPAGNA,3
+6,142,president,,SWP, HARRIS/TROWE,0
+6,142,president,,REP, BUSH/CHENEY,142
+6,142,president,,IND, NADER/CAMEJO,12
+6,142,president,,,Write in,3
+6,142,delegate,At Large,DEM, ELEANOR HOLMES NORTON,990
+6,142,delegate,At Large,REP, MICHAEL ANDREW MONROE,120
+6,142,delegate,At Large,,Write in,8
+6,1,delegate,At Large,DEM, KERRY/EDWARDS,1491
+6,1,delegate,At Large,SGN, COBB/LaMARCHE,4
+6,1,delegate,At Large,LIB, BADNARIK/CAMPAGNA,3
+6,1,delegate,At Large,SWP, HARRIS/TROWE,1
+6,1,delegate,At Large,REP, BUSH/CHENEY,90
+6,1,delegate,At Large,IND, NADER/CAMEJO,6
+6,1,delegate,At Large,,Write in,4
+6,1,delegate,At Large,DEM, ELEANOR HOLMES NORTON,224
+6,1,delegate,At Large,REP, MICHAEL ANDREW MONROE 45,45
+2,2,delegate,At Large,DEM, KERRY/EDWARDS,213
+2,2,delegate,At Large,SGN, COBB/LaMARCHE,1
+2,2,delegate,At Large,LIB, BADNARIK/CAMPAGNA,1
+2,2,delegate,At Large,SWP, HARRIS/TROWE,0
+2,2,delegate,At Large,REP, BUSH/CHENEY,62
+2,2,delegate,At Large,IND, NADER/CAMEJO,7
+2,2,delegate,At Large,,Write in,1
+2,2,delegate,At Large,DEM, ELEANOR HOLMES NORTON,224
+2,2,delegate,At Large,REP, MICHAEL ANDREW MONROE,45
+2,2,delegate,At Large,,Write in,3
+2,3,delegate,At Large,DEM, KERRY/EDWARDS,1008
+2,3,delegate,At Large,SGN, COBB/LaMARCHE,1
+2,3,delegate,At Large,LIB, BADNARIK/CAMPAGNA,8
+2,3,delegate,At Large,SWP, HARRIS/TROWE,1
+2,3,delegate,At Large,REP, BUSH/CHENEY,363
+2,3,delegate,At Large,IND, NADER/CAMEJO,13
+2,3,delegate,At Large,,Write in,8
+2,3,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1052
+2,3,delegate,At Large,REP, MICHAEL ANDREW MONROE,290
+2,3,delegate,At Large,,Write in,8
+2,4,delegate,At Large,DEM, KERRY/EDWARDS,925
+2,4,delegate,At Large,SGN, COBB/LaMARCHE,3
+2,4,delegate,At Large,LIB, BADNARIK/CAMPAGNA,5
+2,4,delegate,At Large,SWP, HARRIS/TROWE,1
+2,4,delegate,At Large,REP, BUSH/CHENEY,266
+2,4,delegate,At Large,IND, NADER/CAMEJO,12
+2,4,delegate,At Large,,Write in,5
+2,4,delegate,At Large,DEM, ELEANOR HOLMES NORTON,904
+2,4,delegate,At Large,REP, MICHAEL ANDREW MONROE,251
+2,4,delegate,At Large,,Write in,10
+2,5,delegate,At Large,DEM, KERRY/EDWARDS,1771
+2,5,delegate,At Large,SGN, COBB/LaMARCHE,8
+2,5,delegate,At Large,LIB, BADNARIK/CAMPAGNA,7
+2,5,delegate,At Large,SWP, HARRIS/TROWE,0
+2,5,delegate,At Large,REP, BUSH/CHENEY,600
+2,5,delegate,At Large,IND, NADER/CAMEJO,16
+2,5,delegate,At Large,,Write in,8
+2,5,delegate,At Large,DEM, ELEANOR HOLMES NORTON,1753
+2,5,delegate,At Large,REP, MICHAEL ANDREW MONROE,523
+2,5,delegate,At Large,,Write in,14
