@@ -1,1 +1,17 @@
-office,district,party,candidate,votesPresident,,DEM,Under Votes,234President,,DEM,Over Votes,53President,,DEM,BILL RICHARDSON ,145President,,DEM,JOHN EDWARDS ,347President,,DEM,DENNIS J. KUCINICH ,193President,,DEM,HILLARY CLINTON ,29470President,,DEM,BARACK OBAMA ,93386President,,DEM,UNCOMMITTED ,339President,,DEM,Write-ins,114President,,REP,Under Votes,76President,,REP,Over Votes,5President,,REP,MIKE HUCKABEE ,1020President,,REP,MITT ROMNEY ,398President,,REP,JOHN MCCAIN ,4198President,,REP,RON PAUL ,494President,,REP,RUDY GIULIANI ,101
+office,district,party,candidate,votes
+President,,DEM,Under Votes,234
+President,,DEM,Over Votes,53
+President,,DEM,BILL RICHARDSON,145
+President,,DEM,JOHN EDWARDS,347
+President,,DEM,DENNIS J. KUCINICH,193
+President,,DEM,HILLARY CLINTON,29470
+President,,DEM,BARACK OBAMA,93386
+President,,DEM,UNCOMMITTED,339
+President,,DEM,Write-ins,114
+President,,REP,Under Votes,76
+President,,REP,Over Votes,5
+President,,REP,MIKE HUCKABEE,1020
+President,,REP,MITT ROMNEY,398
+President,,REP,JOHN MCCAIN,4198
+President,,REP,RON PAUL,494
+President,,REP,RUDY GIULIANI,101
