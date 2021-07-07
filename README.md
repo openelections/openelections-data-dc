@@ -1,4 +1,4 @@
-# OpenElections Data D.C.
+# OpenElections Data D.C. [![Build Status](https://github.com/openelections/openelections-data-dc/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-dc/actions)
 
 Pre-processed election results for District of Columbia elections
 
